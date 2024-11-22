@@ -2,8 +2,7 @@
 Tic-Tac-Toe Game created using React basics
 
 Cloning guidelines
-1. git init
-2. git clone "https://github.com/NavanewDev/Tic-Tac-Toe.git"
+1. git clone "https://github.com/NavanewDev/Tic-Tac-Toe.git"
 
 Installation guidelines
 1. cd tic-tac-toe
